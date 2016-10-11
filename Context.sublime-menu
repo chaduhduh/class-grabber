@@ -1,0 +1,7 @@
+[
+	{
+	    "id" : "ClassGrabber",
+	    "caption" : "Grab Class Structure",
+	    "command" : "grabclass"
+	}
+]
